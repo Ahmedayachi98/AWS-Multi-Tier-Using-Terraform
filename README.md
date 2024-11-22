@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-# Deploy-AWS-Multi-tier-Architecture-using-Terraform
-Deploy AWS Multi tier Architecture using Terraform
-=======
 AWS Multi-Tier Architecture with High Availability
 
  Overview
 This project demonstrates an AWS multi-tier architecture designed to provide scalability, high availability, and fault tolerance. The infrastructure is implemented using Terraform, showcasing modularity by splitting the architecture into reusable components such as networking, compute, database, and storage. The architecture supports two Application Load Balancers (ALBs) to manage traffic efficiently: one for public-facing users and the other for communication between the web application layer and the private application layer.
 
 
-![AWS Multi-Tier Architecture Diagram](images/architecture-diagram.png)
+![AWS Multi-Tier Architecture Diagram](Architecture/architecture-diagram.png)
 
 
 ---
@@ -60,9 +56,3 @@ This project uses Terraform modules to simplify and organize the configuration.
 - AWS account with access credentials configured.
 - Basic understanding of Terraform and AWS services.
 
-### Steps to Deploy
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd aws-multi-tier-architecture
->>>>>>> 7ce7c4a (Initial commit: Added AWS multi-tier architecture project)
