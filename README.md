@@ -1,8 +1,8 @@
 # AWS Multi-Tier Architecture with Terraform  
-**Scalable, Highly Available, Modular Infrastructure with Advanced Monitoring**  
+## Scalable, Highly Available, Modular Infrastructure with Advanced Monitoring**  
 
 
-## Overview
+### Overview
 This project demonstrates an AWS multi-tier architecture designed to provide scalability, high availability, and fault tolerance. The infrastructure is implemented using Terraform, showcasing modularity by splitting the architecture into reusable components such as networking, compute, database, and storage. The architecture supports two Application Load Balancers (ALBs) to manage traffic efficiently: one for public-facing users and the other for communication between the web application layer and the private application layer.
 
 
