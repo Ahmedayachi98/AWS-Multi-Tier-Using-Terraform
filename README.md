@@ -1,5 +1,5 @@
 # AWS Multi-Tier Architecture with Terraform  
-## Scalable, Highly Available, Modular Infrastructure with Advanced Monitoring**  
+### Scalable, Highly Available, Modular Infrastructure with Advanced Monitoring
 
 
 ### Overview
